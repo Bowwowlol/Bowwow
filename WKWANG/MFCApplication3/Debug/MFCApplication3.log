@@ -1,0 +1,6 @@
+﻿  CCamCapture2.cpp
+f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+f:\opencv\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\ben\desktop\wkwang20171121z\mfcapplication3\ccamcapture2.cpp(30): warning C4715: 'CCamCapture2::CreateCapture': 不是所有控制路徑都傳回值
+  MFCApplication3.vcxproj -> C:\Users\ben\Desktop\WKWang20171121z\Debug\MFCApplication3.exe
+  MFCApplication3.vcxproj -> C:\Users\ben\Desktop\WKWang20171121z\Debug\MFCApplication3.pdb (Partial PDB)
